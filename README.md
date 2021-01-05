@@ -1,6 +1,6 @@
 # The-Tangled-Genealogy-of-IoT-Malware
 
-dataset: Raw data and hashes of the samples (_to appear soon_)
+dataset: Raw data and hashes of the samples
 
 lineage_architectures:  Lineage graph for the top 6 architectures colored by family.
 
